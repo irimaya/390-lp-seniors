@@ -26,11 +26,11 @@
 }
 
 .pb-6 {
-	padding-bottom: 150px;
+	padding-bottom: 120px;
 }
 
 .btn-primary {
-	background: #eb8949 !important;
+	background: #eb8949;
 	border: none;
 }
 
@@ -39,10 +39,10 @@
 	.showcase {
 		height: 100%;
 	}
+
 	.showcase-img {
 		padding-top: 0;
 	}
-
 	.img-feat-1 {
 		height: 200px;
 		margin-bottom: -110px;
@@ -50,11 +50,9 @@
 	.img-feat-2 {
 		width: 380px;
 	}
-
 	.showcase-text {
 		text-align: center;
 	}
-
 	.pb-6 {
 		padding-top: 50px;
 		padding-bottom: 20px;
